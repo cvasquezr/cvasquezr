@@ -13,8 +13,6 @@ My professional mission revolves around delivering high-quality software that no
 
 ## Skills Snapshot
 
-Here's a glimpse of the skills and technologies I bring to the table:
-
 - **Backend Development**: Laravel, Slim PHP, CakePHP
 - **Testing**: PHPUnit, Unit Testing
 - **Agile Methodologies**: Scrum
@@ -30,11 +28,6 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - **Monitoring**: Graylog, Grafana
 - **DevOps**: Linux, AWS, Docker
 - **Version Control**: Git (GitLab, GitHub, Bitbucket)
-- **Additional**: Golang
-
-## What's Next?
-
-As I continue to evolve in my journey as a backend developer, my goal is to tackle increasingly challenging projects while staying abreast of the latest technologies and best practices. I'm enthusiastic about the prospect of collaborating on innovative ventures and contributing to the ever-expanding landscape of software development.
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or exciting opportunities to discuss. Let's build something amazing together!
 
